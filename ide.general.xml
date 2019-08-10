@@ -2,4 +2,7 @@
   <component name="GeneralSettings">
     <option name="defaultProjectDirectory" value="E:\Programming Projects\cpp\java" />
   </component>
+  <component name="Registry">
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+  </component>
 </application>
