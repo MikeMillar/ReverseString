@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ListViewScroll" type="CSS" />
+      <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
       <mapping pattern="Project Details" type="PLAIN_TEXT" />
       <mapping pattern="Token" type="PLAIN_TEXT" />
       <mapping pattern="Project Description" type="PLAIN_TEXT" />
