@@ -5,6 +5,7 @@
       <mapping pattern="Project Details" type="PLAIN_TEXT" />
       <mapping pattern="Token" type="PLAIN_TEXT" />
       <mapping pattern="Project Description" type="PLAIN_TEXT" />
+      <mapping pattern="adminPasswd" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="tmconf" type="PLAIN_TEXT" />
       <mapping ext="lists" type="PLAIN_TEXT" />
