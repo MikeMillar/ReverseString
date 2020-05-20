@@ -6,7 +6,16 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="MikeMillar" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bb.accessinn.com/bitbucket/scm/dh_code/dhwebadminapp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bb.accessinn.com" />
+          <option name="userName" value="michael_millar" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="E:\Programming Projects\AccessInnProgramming" />
   </component>
 </application>
